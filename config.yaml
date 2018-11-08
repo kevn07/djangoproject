@@ -1,0 +1,36 @@
+
+
+
+extractors:
+  AWS:
+    AWS Certified: [ec2, s3]
+    sysops: [ec2, s3]
+    solutions architect: [cloudformation, dynamodb]
+    developer: [ec2, rds, dynamodb]
+  AWS_tags:
+    - s3
+    - ec2
+    - vpc
+    - elb
+    - iam
+    - rds
+    - sqs
+    - route53
+    - elasticache
+    - keyservices
+    - security
+    - riskandcompliance
+    - bestpractice
+    - asg
+    - cloudwatch
+    - emr
+    - beanstalk
+    - redshift
+    - dynamodb
+    - kinesis
+    - operations
+    - swf
+    - cloudfront
+
+
+
